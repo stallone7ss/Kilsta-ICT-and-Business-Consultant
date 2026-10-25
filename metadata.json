@@ -1,0 +1,6 @@
+{
+  "name": "Kilsta Business ICT - Real-time Inventory System",
+  "description": "Real-time ICT inventory and IT asset management database system for hardware, networking gear, software licenses, serial tracking, and stock transactions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
